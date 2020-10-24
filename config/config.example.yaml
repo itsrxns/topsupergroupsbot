@@ -23,7 +23,7 @@
 # replace the values with the right ones
 
 
-bot_token: "bot_token"
+bot_token: "1231190269:AAF45BpZis5r8TNk3KgNs8SepzfPVnqgCuo"
 
 redis_host: 'redis_host'
 redis_port: 1234
